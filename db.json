@@ -1,0 +1,46 @@
+{
+    "registration": [
+      {
+        "id": "bb961319-9413-42f3-b607-3edae982fc2b",
+        "email": "asd@asd.com",
+        "phone": "457-672-6001",
+        "ipAddress": "160.167.107.125",
+        "passport": "https://i.pinimg.com/736x/e1/32/b5/e132b57b3a17dc3f9844f29fc4eb05d4.jpg",
+        "selfie": "https://cdn.fakercloud.com/avatars/looneydoodle_128.jpg",
+        "identity": {
+          "NIK": "3131515151561",
+          "name": "Fannie Upton I",
+          "dob": "Mon May 03 2021 17:15:46 GMT+0700 (Western Indonesia Time)"
+        },
+        "handwritten": "",
+        "initial": "",
+        "fileSupport[file1]": "",
+        "fileSupport[file2]": "",
+        "fileSupport[file3]": "",
+        "fileSupport[file4]": "",
+        "fileSupport[file5]": "",
+        "spt": {
+          "token": "459680da28f07528e6dae9e87e18c6bc6ff8d13221bb8a9093f20dda5999c52d"
+        }
+      }
+    ],
+    "document": [
+      {
+        "id": "24313273-497e-4db8-a129-cc616b6cc242",
+        "userId": "e5482f5e-c73e-40df-835a-5f2175b63163",
+        "documentTitle": "tes callback doc",
+        "docType": "Parallel",
+        "owner": {
+          "privyId": "TES001",
+          "enterpriseToken": "41bc84b42c8543daf448d893c255be1dbdcc722e"
+        },
+        "document": "https://i.pinimg.com/736x/e1/32/b5/e132b57b3a17dc3f9844f29fc4eb05d4.jpg",
+        "recipients": {
+          "privyId": "UAT013",
+          "type": "Signer",
+          "enterpriseToken": ""
+        },
+        "templateId": "B"
+      }
+    ]
+  }
